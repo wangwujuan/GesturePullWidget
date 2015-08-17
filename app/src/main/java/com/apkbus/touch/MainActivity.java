@@ -13,7 +13,7 @@ import android.app.Activity;
 public class MainActivity extends Activity  {
 	private Button touchButton;
 	
-	
+	//利用手势处理实时更新控件位置
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
